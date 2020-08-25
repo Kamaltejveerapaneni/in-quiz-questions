@@ -152,7 +152,7 @@ OAuth authorization server
 - no-proxy
 - client-only
 - restricted
-- private
+- private <-- Correct(https://www.keycdn.com/support/cache-control)
 
 #### Q25. Which OAuth grant type can support a refresh token?
 
